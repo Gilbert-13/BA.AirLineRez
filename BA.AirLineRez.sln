@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirLineConsole", "AirLineConsole\AirLineConsole.csproj", "{B36E8B62-B1C9-4E10-9E34-22209ABA5685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirLineLibrary", "AirLineLibrary\AirLineLibrary.csproj", "{BEA962EA-9C60-4D9E-8517-C806E3D23396}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirLineUnitTest", "AirLineUnitTest\AirLineUnitTest.csproj", "{FA2D2885-681C-4B7A-838B-DB9EFD95FBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36E8B62-B1C9-4E10-9E34-22209ABA5685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36E8B62-B1C9-4E10-9E34-22209ABA5685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36E8B62-B1C9-4E10-9E34-22209ABA5685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36E8B62-B1C9-4E10-9E34-22209ABA5685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEA962EA-9C60-4D9E-8517-C806E3D23396}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA962EA-9C60-4D9E-8517-C806E3D23396}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA962EA-9C60-4D9E-8517-C806E3D23396}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA962EA-9C60-4D9E-8517-C806E3D23396}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA2D2885-681C-4B7A-838B-DB9EFD95FBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2D2885-681C-4B7A-838B-DB9EFD95FBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2D2885-681C-4B7A-838B-DB9EFD95FBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2D2885-681C-4B7A-838B-DB9EFD95FBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
