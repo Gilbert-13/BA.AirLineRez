@@ -16,6 +16,12 @@ namespace AirLineConsole
 
             Trace.WriteLine(string.Format("Application started: {0}",DateTime.Now), "MyApp");
 
+
+
+
+
+
+
             #region ConsoleSettings
             Console.SetWindowSize(Math.Min(150, Console.LargestWindowWidth), Math.Min(50, Console.LargestWindowHeight));
 
